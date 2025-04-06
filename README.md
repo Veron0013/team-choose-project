@@ -14,3 +14,22 @@ webp
 
 -- Всі HTML-файли пройшли перевірку і не містять помилок на
 https://validator.w3.org/, https://jigsaw.w3.org/css-validator/
+
+### Порядок секцій
+
+    <load src="./partials/header.html" />
+
+      <load src="./partials/hero.html" />
+      <load src="./partials/partners.html" />
+      <load src="./partials/features.html" />
+      <load src="./partials/our_mission.html" />
+      <load src="./partials/about.html" />
+      <load src="./partials/experts.html" />
+      <load src="./partials/reviews.html" />
+      <load src="./partials/slogan.html" />
+      <load src="./partials/answers.html" />
+      <load src="./partials/blog.html" />
+      <load src="./partials/faq.html" />
+      <load src="./partials/subscribe.html" />
+
+    <load src="./partials/footer.html" />
