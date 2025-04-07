@@ -1,7 +1,7 @@
 .experts {}
 
 .experts .container {
-	background-color: var(--background-green);
+	/*background-color: var(--background-green);*/
 	padding-top: 104px;
 	padding-bottom: 104px;
 }
