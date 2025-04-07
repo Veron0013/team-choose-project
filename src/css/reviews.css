@@ -1,0 +1,115 @@
+.reviews {
+  background-color: #022c22;
+  max-width: 100%;
+  position: relative;
+}
+.reviews-container {
+  padding-top: 64px;
+  padding-bottom: 104px;
+}
+
+.reviwes-paragraf {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 143%;
+  letter-spacing: 0em;
+  color: #fff;
+}
+
+.reviwes-paragraf::before {
+  content: ' ';
+  display: inline-block;
+  border-radius: 100%;
+  background-color: #bef264;
+  width: 8px;
+  height: 8px;
+  margin-right: 8px;
+}
+
+.reviwes-paragraf::after {
+  content: '';
+  display: block;
+  width: 1216px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.24);
+  margin-top: 16px;
+  margin-bottom: 56px;
+}
+
+.reviews-title {
+  font-weight: 400;
+  font-size: 62px;
+  line-height: 110%;
+  letter-spacing: -0.03em;
+  color: #fff;
+  margin-bottom: 88px;
+}
+
+.reviews-wrapper {
+  width: 1320px;
+  overflow: hidden;
+}
+
+.reviews-list {
+  display: flex;
+  gap: 32px;
+  width: max-content;
+}
+.reviews-item {
+  padding: 40px;
+  border-radius: 16px;
+  width: 384px;
+  height: 356px;
+  background-color: #bef264;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  flex: 0 0 auto;
+}
+
+.reviews-item-text {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.01em;
+  color: #1d1f1e;
+  height: 180px;
+}
+.rewiews-photo-text {
+  display: flex;
+  gap: 24px;
+}
+
+.reviews-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+  color: #1d1f1e;
+  margin-bottom: 4px;
+}
+.reviews-name-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 144%;
+  letter-spacing: 0em;
+  color: #1d1f1e;
+}
+
+.reviews-wrapper::after {
+  content: '';
+  display: block;
+  width: 1216px;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.6) 0%,
+    rgba(255, 255, 255, 0.6) 40%,
+    rgba(255, 255, 255, 0.24) 40%,
+    rgba(255, 255, 255, 0.24) 100%
+  );
+  transform-origin: left;
+  transform: scaleY(2);
+  margin-top: 64px;
+  margin-bottom: 56px;
+}
