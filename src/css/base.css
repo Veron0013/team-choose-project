@@ -57,4 +57,5 @@ body {
 
 main {
   flex-grow: 1;
+  scroll-behavior: smooth;
 }
