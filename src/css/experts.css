@@ -37,19 +37,26 @@
 }
 
 .left {
+	display: inline;
 	transform: rotate(180deg);
 	opacity: 0.4;
 }
 
-.right {}
 
-.experts_swiper {}
+.right {
+	display: inline;
+}
+
+.experts_swiper {
+	width: 1320px;
+	overflow: hidden;
+}
 
 .experts_swiper_list {
-	display: flex;
+	/*display: flex;
 	align-items: center;
 	justify-content: start;
-	gap: 24px;
+	gap: 24px;*/
 }
 
 .experts_list_items {}
