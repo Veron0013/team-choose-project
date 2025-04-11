@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["const swiper_experts = new Swiper('.experts_swiper', {\n\tloop: true,\n\tslidesPerView: 3.8,\n\tspaceBetween: 30,\n\n\tnavigation: {\n\t\tnextEl: '.right',\n\t\tprevEl: '.left',\n\t},\n\n});"],"names":[],"mappings":"ssBAAuB,IAAI,OAAO,kBAAmB,CACpD,KAAM,GACN,cAAe,IACf,aAAc,GAEd,WAAY,CACX,OAAQ,SACR,OAAQ,OACR,CAEF,CAAC"}
