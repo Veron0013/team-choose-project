@@ -63,6 +63,8 @@
 .experts_swiper {
 	width: 1320px;
 	overflow: hidden;
+	position: relative;
+	margin-bottom: 8px;
 }
 
 .experts_swiper_list {

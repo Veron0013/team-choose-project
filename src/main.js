@@ -8,5 +8,9 @@ const swiper_experts = new Swiper('.experts_swiper', {
 		nextEl: '.right',
 		prevEl: '.left',
 	},
+	scrollbar: {
+		el: ".swiper-scrollbar",
+		hide: true,
+	},
 
 });
