@@ -104,12 +104,11 @@
   background: linear-gradient(
     to right,
     rgba(255, 255, 255, 0.6) 0%,
-    rgba(255, 255, 255, 0.6) 40%,
-    rgba(255, 255, 255, 0.24) 40%,
+    rgba(255, 255, 255, 0.6) 25%,
+    rgba(255, 255, 255, 0.24) 25%,
     rgba(255, 255, 255, 0.24) 100%
   );
-  transform-origin: left;
+
   transform: scaleY(2);
   margin-top: 64px;
-  margin-bottom: 56px;
 }
