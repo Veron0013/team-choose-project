@@ -45,6 +45,19 @@
 
 .right {
 	display: inline;
+	opacity: 0.4;
+}
+
+.left:hover,
+.left:focus,
+.right:hover,
+.right:focus {
+	cursor: pointer;
+}
+
+.left:active,
+.right:active {
+	opacity: 1;
 }
 
 .experts_swiper {
