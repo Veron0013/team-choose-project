@@ -1,0 +1,30 @@
+.container {
+  width: 1000px;
+  padding: 140px 0;
+}
+
+.slogan-title {
+  font-size: 76px;
+  line-height: 105%;
+  letter-spacing: -0.03em;
+  text-align: center;
+  color: #1d1f1e;
+  margin-bottom: 64px;
+  border-radius: 200px;
+}
+
+.link-slogan {
+  border-radius: 200px;
+  padding: 16px 24px;
+  background: #022c22;
+  width: 149px;
+  height: 56px;
+
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 133%;
+  letter-spacing: 0em;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+}
