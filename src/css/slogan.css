@@ -9,8 +9,9 @@
   letter-spacing: -0.03em;
   text-align: center;
   color: #1d1f1e;
-  margin-bottom: 64px;
   border-radius: 200px;
+  width: 957px;
+  margin: 0 auto 64px;
 }
 
 .link-slogan {
