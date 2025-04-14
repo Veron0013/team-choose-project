@@ -1,15 +1,18 @@
 .subscribe {
   background-color: #022c22;
 }
+
 .subscribe .container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-padding-right: 0;
+  padding-right: 0;
 }
+
 .left-container {
   position: relative;
 }
+
 .subscribe-title {
   font-size: 62px;
   line-height: 1.1;
@@ -60,10 +63,11 @@ padding-right: 0;
   letter-spacing: 0em;
   color: #1d1f1e;
 }
+
 .subscribe-form-btn:hover,
 .subscribe-form-btn:focus {
-    color: #fff;
-    background-color: lightseagreen; 
+  color: #fff;
+  background-color: lightseagreen;
 }
 
 .circle-green {
@@ -77,7 +81,7 @@ padding-right: 0;
 }
 
 .circle-png {
-    z-index: 999999;
+  z-index: 999999;
   width: 374px;
   height: 452px;
   background-color: #fff7ed;
