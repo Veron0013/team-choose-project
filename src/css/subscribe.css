@@ -1,7 +1,7 @@
 .subscribe {
   background-color: #022c22;
 }
-.subscribe-container {
+.subscribe .container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -32,9 +32,6 @@ padding-right: 0;
 .subscribe-form {
   display: flex;
   flex-direction: row;
-}
-
-.subscribe-label {
 }
 
 .subscribe-input {
