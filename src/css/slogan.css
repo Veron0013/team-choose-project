@@ -1,6 +1,6 @@
-.slogan .container {
-  width: 1000px;
-  padding: 140px 0;
+.container-slogan {
+  width: 100%;
+  padding: 70px 0;
 }
 
 .slogan-title {
