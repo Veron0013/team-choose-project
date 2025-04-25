@@ -9,16 +9,16 @@
 
 .faq-title {
     font-weight: 400;
-        font-size: 62px;
-        line-height: 1.09677;
-        letter-spacing: -0.03em;
-        text-align: center;
-        color: #1d1f1e;
-        margin-bottom: 24px;
+    font-size: 62px;
+    line-height: 1.09677;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: #1d1f1e;
+    margin-bottom: 24px;
 }
 
 .faq-subtitle {
-font-weight: 400;
+    font-weight: 400;
     font-size: 18px;
     line-height: 1.44444;
     letter-spacing: 0em;
@@ -36,15 +36,15 @@ font-weight: 400;
 .faq-item-title {
     cursor: pointer;
     font-weight: 500;
-        font-size: 18px;
-        line-height: 1.33333;
-        letter-spacing: 0em;
-        color: #1d1f1e;
-        margin: 24px 0 16px 0;
+    font-size: 18px;
+    line-height: 1.33333;
+    letter-spacing: 0em;
+    color: #1d1f1e;
+    margin: 24px 0 16px 0;
 }
 
 .faq-item-subtitle {
-font-weight: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0em;
@@ -62,16 +62,16 @@ font-weight: 400;
 }
 
 .faq-footer-title {
-font-weight: 500;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: -0.01em;
-    color: #1d1f1e;    
+    color: #1d1f1e;
     margin-bottom: 16px;
 }
 
 .faq-footer-subtitle {
-font-weight: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0em;
@@ -82,8 +82,8 @@ font-weight: 400;
 
 .faq-footer a {
     font-weight: 500;
-        text-decoration: underline;
-        text-decoration-skip-ink: none;
-        color: #1d1f1e;
-    
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #1d1f1e;
+
 }
