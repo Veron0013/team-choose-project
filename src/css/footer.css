@@ -97,8 +97,7 @@
 }
 
 .social_icon {
-	fill: black;
-	stroke: black;
+	fill: var(--button-primary-normal);
 }
 
 .footer_bottom {
