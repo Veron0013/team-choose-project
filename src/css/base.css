@@ -15,6 +15,7 @@
   --background-disabled: #f5faf9;
   --border-solid: #d9dedd;
   --border-transparent-white: rgba(255, 255, 255, 0.24);
+  --border-transparent-white-second: rgba(255, 255, 255, 0.8);
   --border-transparent-dark: rgba(29, 31, 30, 0.24);
   --border-disabled: #edf2f1;
   --button-primary-normal: #022c22;
