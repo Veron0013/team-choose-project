@@ -2,7 +2,7 @@
 let currentLanguage = 'ua';
 
 const switcher = document.querySelector('.hero #lang_input');
-console.log(switcher);
+//console.log(switcher);
 
 //switcher
 function loadText() {
@@ -26,7 +26,7 @@ function loadText() {
 
 function changeLanguage() {
 	currentLanguage = switcher.checked ? 'en' : 'ua';
-	console.log(currentLanguage);
+	//console.log(currentLanguage);
 	loadText();
 }
 
