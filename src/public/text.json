@@ -1,0 +1,24 @@
+{
+  "section": {
+    "#features": {
+      "en": {
+        ".features-content-text": "Our commitment to green energy is paving the way for a cleaner, healthier planet",
+        ".features-evcharging-title": "EV charging",
+        ".features-solarenergy-title": "Solar Energy",
+        ".features-solarenergy-text": "Solar panels convert sunlight into electricity. Photovoltaic (PV) cells on these panels capture the energy from the sun and convert it into electrical power.",
+        ".features-learnmore": "Learn more",
+        ".features-windenergy-title": "Wind Energy",
+        ".features-hydropower-title": "Hydropower"
+      },
+      "ua": {
+        ".features-content-text": "Наша відданість зеленій енергетиці прокладає шлях до чистішої, здоровішої планети.",
+        ".features-evcharging-title": "Заряджання електромобілів",
+        ".features-solarenergy-title": "Сонячна енергія",
+        ".features-solarenergy-text": "Сонячні панелі перетворюють сонячне світло на електроенергію. Фотовольтаїчні (PV) елементи на цих панелях вловлюють енергію сонця і перетворюють її на електричну енергію.",
+        ".features-learnmore": "Дізнатися більше",
+        ".features-windenergy-title": "Вітрова енергія",
+        ".features-hydropower-title": "Гідроенергія"
+      }
+    }
+  }
+}
