@@ -1,12 +1,13 @@
 //global
 let currentLanguage = 'ua';
+const FILE_PATH = "./public/text.json";
 
 const switcher = document.querySelector('.hero #lang_input');
 //console.log(switcher);
 
 //switcher
 function loadText() {
-	fetch('/public/text.json')
+	fetch(FILE_PATH)
 		.then(response => response.json())
 		.then(data => {
 			console.log(data);
