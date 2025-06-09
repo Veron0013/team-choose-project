@@ -1,16 +1,16 @@
 //global
 let currentLanguage = 'ua';
-const FILE_PATH = "./public/text.json";
 
 const switcher = document.querySelector('.hero #lang_input');
 //console.log(switcher);
 
+const FILE_PATH = "./text.json";
 //switcher
 function loadText() {
 	fetch(FILE_PATH)
 		.then(response => response.json())
 		.then(data => {
-			console.log(data);
+			//console.log(data);
 			const dict = data.section['#features'][currentLanguage];
 
 			for (const selector in dict) {
