@@ -21,7 +21,7 @@ function loadText() {
 			}
 		})
 		.catch(error => {
-			console.error('Error loading or parsing JSON:', error);
+			console.log('Error loading translation from JSON:', error);
 		});
 }
 
